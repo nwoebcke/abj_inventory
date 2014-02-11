@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  product_line: MyString
+  part_num: MyString
+  description: MyString
+  price0: 9.99
+  price1: 9.99
+  price2: 9.99
+  price3: 9.99
+  price4: 9.99
+  price5: 9.99
+
+two:
+  product_line: MyString
+  part_num: MyString
+  description: MyString
+  price0: 9.99
+  price1: 9.99
+  price2: 9.99
+  price3: 9.99
+  price4: 9.99
+  price5: 9.99

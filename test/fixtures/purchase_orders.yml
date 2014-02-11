@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  order_date: 
+  delivery_date: 
+  po_num: MyString
+  is_open: false
+
+two:
+  order_date: 
+  delivery_date: 
+  po_num: MyString
+  is_open: false
